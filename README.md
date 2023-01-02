@@ -211,7 +211,8 @@ You can see build is started Once Done open that build
 
 Go to console output & copy the address
 
-![image](https://user-images.githubusercontent.com/84725860/210177287-796a10d8-35c5-417c-bd7a-988f787a572e.png)
+![image](https://user-images.githubusercontent.com/121545847/210229857-7403906f-f202-4e82-b99d-da18a1fa4ba4.png)
+
 
 Now open your Instance & change Directory with
 
