@@ -365,7 +365,11 @@ Now check the Port 8000 is running Successfully
 
 ![image](https://user-images.githubusercontent.com/121545847/210249093-01ded4b3-5a7e-4350-add7-36fdb96a3dfc.png)
 
+### Step 5:
 
+Install Github integration Plugin
+
+![image](https://user-images.githubusercontent.com/121545847/210249347-96a99fc1-9407-42e5-8bdd-921042c32740.png)
 
 
 
