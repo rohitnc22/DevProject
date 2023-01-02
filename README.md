@@ -371,8 +371,21 @@ Install Github integration Plugin
 
 ![image](https://user-images.githubusercontent.com/121545847/210249347-96a99fc1-9407-42e5-8bdd-921042c32740.png)
 
+### Step 6:
+
+In GitHub SSH OR GPG Key Should Be Present 
+then
+
+Go to Webhooks which is in Repo Settings and add webhook
+
+![image](https://user-images.githubusercontent.com/121545847/210254199-b1117352-8476-4274-a365-754a26581a35.png)
 
 
+
+
+
+
+  
 
 
 
