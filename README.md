@@ -334,11 +334,35 @@ To check the state of Docker
 docker ps
 ```
 
+
 ### Step 4:-
 
 **Now lets Run the Docker through Jenkins**
 
-![image](https://user-images.githubusercontent.com/84725860/210182648-7e985832-03bb-4d64-93ff-81b3adfb1b22.png)
+Give Full Access to Build Path (Pranoti_G is my Item Name)
+
+```
+sudo chmod 777 /var/lib/jenkins/workspace/Pranoti_G 
+```
+
+To Connect Docker Domain Socket
+
+```
+sudo usermod -a -G docker jenkins
+```
+
+Then Restart Our Jenkins
+
+```
+sudo systemctl restart jenkins
+```
+
+Then add the Build Steps in Execute Shell
+
+![image](https://user-images.githubusercontent.com/121545847/210248806-f21e2c98-45bb-4f48-9e6d-cb9e636139f8.png)
+
+
+
 
 
 
