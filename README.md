@@ -139,7 +139,7 @@ Now Click on Start Using Jenkins you can see below screen
 
 Provide Item Name, we are using freestyle pipeline so choose freestyle project
 
-![image](https://user-images.githubusercontent.com/84725860/210176217-33394a71-17a7-4857-9b94-79e6c3f43392.png)
+![image](https://user-images.githubusercontent.com/121545847/210228201-a68aab91-a0a5-4885-a066-012c680f455d.png)
 
 Once Done Click on save
 
@@ -178,7 +178,7 @@ Go to your Project -->  Configure
 
 Check Github Project & Provide the Project URL
 
-![image](https://user-images.githubusercontent.com/84725860/210176794-8781f3d2-481d-45d2-b837-728701cde1e4.png)
+![image](https://user-images.githubusercontent.com/121545847/210228619-de87f4f8-b29b-4cd1-b6ac-4806f5c40e61.png)
 
 
 In Source Code Management select GIT and paste the repository URL 
