@@ -21,13 +21,14 @@
 
 ### Step 1:
 
-**Go to your AWS Account & Launch an Ubuntu Instance
+**Go to your AWS Account & Launch an Ubuntu Instance**
+
 Open EC2 -> Instances --> Launch an EC2 Instance
 Select Ubuntu Image**
 
 ![image](https://user-images.githubusercontent.com/84725860/210175095-58852d0b-fbdf-431f-9991-5d12fd35647f.png)
 
-Provide Following Details :
+* Provide Following Details :
 
 Name = Jenkins-Project-1
 
@@ -339,9 +340,11 @@ docker ps
 
 ### Step 4:-
 
+
 **Now lets Run the Docker through Jenkins**
 
 Give Full Access to Build Path (Pranoti_G is my Item Name)
+
 
 ```
 sudo chmod 777 /var/lib/jenkins/workspace/Pranoti_G 
@@ -369,13 +372,13 @@ Now check the Port 8000 is running Successfully
 
 ### Step 5:
 
-Install Github integration Plugin
+**Install Github integration Plugin**
 
 ![image](https://user-images.githubusercontent.com/121545847/210249347-96a99fc1-9407-42e5-8bdd-921042c32740.png)
 
 ### Step 6:
 
-Webhook Configuration
+**Webhook Configuration**
 
 In GitHub SSH OR GPG Key Should Be Present 
 then
@@ -393,6 +396,9 @@ Now Change in Github you will see automatic deployment will there
 
 
 ![image](https://user-images.githubusercontent.com/121545847/210254649-a5ec1fb6-f58b-4a36-aa8a-70da7608eb90.png)
+
+
+#                                                   Thanks You
 
 
 
