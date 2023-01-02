@@ -178,7 +178,8 @@ Go to your Project -->  Configure
 
 Check Github Project & Provide the Project URL
 
-![image](https://user-images.githubusercontent.com/121545847/210228619-de87f4f8-b29b-4cd1-b6ac-4806f5c40e61.png)
+![image](https://user-images.githubusercontent.com/121545847/210234072-3ecd07f1-5b6a-4162-b87e-a93924484b54.png)
+
 
 
 In Source Code Management select GIT and paste the repository URL 
@@ -211,7 +212,8 @@ You can see build is started Once Done open that build
 
 Go to console output & copy the address
 
-![image](https://user-images.githubusercontent.com/121545847/210229857-7403906f-f202-4e82-b99d-da18a1fa4ba4.png)
+![image](https://user-images.githubusercontent.com/121545847/210234224-4a72ab1e-2ba0-4cd2-a50c-6b76a2aeaf6f.png)
+
 
 
 Now open your Instance & change Directory with
@@ -246,7 +248,7 @@ Now Your App is running on 8000 Port so give the inbound accesss:
 
 Type the Public ip with 8000 Port:- 
 
-![image](https://user-images.githubusercontent.com/84725860/210177770-73b6bbe5-5f55-44c1-9b09-05d4b6b52b8e.png)
+![image](https://user-images.githubusercontent.com/121545847/210234319-3425b5fc-7610-485a-ac06-b418f89a7561.png)
 
 
 Now lets install docker and build the docker image by following commands 
