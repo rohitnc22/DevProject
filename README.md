@@ -381,6 +381,11 @@ Go to Webhooks which is in Repo Settings and add webhook
 ![image](https://user-images.githubusercontent.com/121545847/210254199-b1117352-8476-4274-a365-754a26581a35.png)
 
 
+then Go to jenkins and configure the Build triggers
+
+![image](https://user-images.githubusercontent.com/121545847/210254368-c42275c0-8471-4d9d-b99d-3856e0d63e03.png)
+
+
 
 
 
