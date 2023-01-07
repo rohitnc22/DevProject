@@ -347,7 +347,7 @@ Give Full Access to Build Path (Pranoti_G is my Item Name)
 
 
 ```
-sudo chmod 777 /var/lib/jenkins/workspace/Pranoti_G 
+sudo chmod 777 /var/lib/jenkins/workspace/node-todo-app
 ```
 
 To Connect Docker Domain Socket
@@ -364,11 +364,11 @@ sudo systemctl restart jenkins
 
 Then add the Build Steps in Execute Shell
 
-![image](https://user-images.githubusercontent.com/121545847/210248806-f21e2c98-45bb-4f48-9e6d-cb9e636139f8.png)
+![image](https://user-images.githubusercontent.com/122145124/211163310-384447e9-85ad-414b-878c-b90796d4bcee.png)
 
 Now check the Port 8000 is running Successfully
 
-![image](https://user-images.githubusercontent.com/121545847/210249093-01ded4b3-5a7e-4350-add7-36fdb96a3dfc.png)
+![image](https://user-images.githubusercontent.com/122145124/211163339-094a45b2-ce1a-4629-803f-0e309f5905da.png)
 
 ### Step 5:
 
